@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🌻😸
 
-<!--
-**dudisx/dudisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é dudinha almeida 🤍
 
-Here are some ideas to get you started:
+🇧🇷-Brasil💚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📓-Estou cursando o 1°ano do ensino médio;
+
+🇺🇸-Estou cursando ingles;
+
+📝-Estudo sobre conteudos da minha futura area de atuação;
+
+👩‍💻-Ja fiz alguns projetos utilizando JavaScript,pelo Alura;
